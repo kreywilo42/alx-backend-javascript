@@ -1,0 +1,15 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "description": "0x06. Unittests in JS # Learning Objectives # How to use Mocha to write a test suite How to use different assertion libraries (Node or Chai) How to present long test suites When and how to use spies When and how to use stubs What are hooks and when to use them Unit testing with Async functions How to write integration tests with a small node server",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  }
+}
